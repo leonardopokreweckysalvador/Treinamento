@@ -39,7 +39,6 @@ public class CadastroCafe extends JFrame {
 			}
 		});
 	}
-
 	
 	public CadastroCafe() {
 		cafeService = new CafeService();

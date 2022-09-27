@@ -40,6 +40,8 @@ public class PessoaService {
 			sala.setId(sala2);
 			pessoa.setSala2(sala);
 			
+			
+			
 			pessoaRep.salvarPessoa(pessoa);	
 		}
 	}
